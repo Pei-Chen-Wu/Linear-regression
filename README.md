@@ -43,6 +43,7 @@ from  [https://gist.github.com/jacky308082](https://gist.github.com/jacky308082)
 * Gradient Descent
 
   ![Alt text](photo/Gradient Descent/data_point_linear.png)
+  
   ![Alt text](photo/Gradient Descent/截距權重圖.png)
 
 * Scikit learn
