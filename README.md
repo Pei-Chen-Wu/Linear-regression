@@ -38,13 +38,13 @@ from  [https://gist.github.com/jacky308082](https://gist.github.com/jacky308082)
 ## 成果
 * Ordinary Least Square
 
-  ![Alt text](photo/Ordinary Least Square/data_point_linear.png)
+  ![Alt text](photo/Ordinary-Least-Square/data_point_linear.png)
   
 * Gradient Descent
 
-  ![Alt text](photo/Gradient Descent/data_point_linear.png)
+  ![Alt text](photo/Gradient-Descent/data_point_linear.png)
   
-  ![Alt text](photo/Gradient Descent/截距權重圖.png)
+  ![Alt text](photo/Gradient-Descent/截距權重圖.png)
 
 * Scikit learn
 
